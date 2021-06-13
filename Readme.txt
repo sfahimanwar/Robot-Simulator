@@ -4,7 +4,7 @@ Sheikh Fahim Anwar
 Source Files - 
 display.c - contains the window/drawing code to display the robots
 environmentServer.c - code that runs the environment server
-robotClient.c - code for a process that will stop the simulator
+robotClient.c - code for the simulated robot
 stop.c - code for a process that will stop the simulator
 
 Header files - 
